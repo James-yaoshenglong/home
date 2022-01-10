@@ -11,7 +11,7 @@ title                    : "YAO Shenglong"
 title_separator          : "-"
 name                     : &name "YAO Shenglong"
 description              : &description "personal description"
-url                      :  https://github.com/James-yaoshenglong# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  https://james-yaoshenglong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "James-yaoshenglong/home"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "YAO Shenglong"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "undergraduate student of City University of Hong Kong major in Computer Science"
   location         : "Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "yaoshenglong758063348@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
