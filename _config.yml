@@ -82,10 +82,10 @@ analytics:
 # Site Author
 author:
   name             : "YAO Shenglong"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "undergraduate student of City University of Hong Kong major in Computer Science"
   location         : "Hong Kong"
-  employer         :
+  employer         : "City University of Hong Kong"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "yaoshenglong758063348@gmail.com"
