@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YAO Shenglong"
+title                    : "Shenglong Yao"
 title_separator          : "-"
-name                     : &name "YAO Shenglong"
+name                     : &name "Shenglong Yao (James)"
 description              : &description "personal description"
 url                      :  https://james-yaoshenglong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "YAO Shenglong"
+  name             : "Shenglong Yao (James)"
   avatar           : "profile.jpg"
   bio              : "undergraduate student of City University of Hong Kong major in Computer Science"
   location         : "Hong Kong"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "James_YAO_1"
   vine             :
   weibo            :
   xing             :
