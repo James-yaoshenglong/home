@@ -19,6 +19,13 @@ redirect_from:
 - My recent projects are mainly focused on browser fuzzing.
 - My detailed research experience can be seen in my [cv](files/cv.pdf).
 
+## Publication
+- Yiren Liu, S. Joe Qin, Xiangyu Zhao, Yixiao HUANG, **Shenglong Yao**, Guo Han. “Dynamic Statistical
+Learning with Engineered Features Outperforms Deep Neural Networks for Smart Building Cooling Load
+Predictions”. Accepted by [NeurIPS 2022 Workshop ICBINB](https://sites.google.com/view/icbinb-2022/home). [\[pdf\]](https://drive.google.com/file/d/1B_yLhrYC1NNH0kl6xqMUF99Yf5MnuV1v/view), [\[poster\]](https://drive.google.com/file/d/1fnvqlO5aZBoy2VVNV8MRHVhEDr8i0baU/view)
+- Jiasi Weng, **Shenglong Yao**, Yuefeng Du, Junjie Huang, Jian Weng, Cong Wang. “Proof of Unlearning:
+Definitions and Instantiation”. Submitted to IEEE Transactions on Information Forensics & Security. [\[pdf\]](https://arxiv.org/pdf/2210.11334.pdf)
+
 ## Personal Interest
 
 - I am interested in hacking and like playing CTF competitions as a PWNer.
