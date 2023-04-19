@@ -10,12 +10,13 @@ redirect_from:
 
 - Hello, I am Shenglong, my English name is **James**.
 - I am a senior CS undergraduate student at City University of Hong Kong, supervised by Prof. Cong Wang.
-- I am currently doing a research intern at UCSB SecLab with Prof Christopher Kruegel and Prof. Giovanni Vigna 
+- I have worked as a research intern at UCSB SecLab with Prof Christopher Kruegel and Prof. Giovanni Vigna.
+- I will join Georgia Tech as a CS PhD in Computer Security in 2023 Fall. 
 
 ## Research Interest
 
 - I am interested in everything related to computer security.
-- Currently, my research interests include but are not limited to binary security and system security. I am also interested in applying machine learning method in secuirty area.
+- Currently, my research interests include but are not limited to binary security and system security. I am also interested in applying machine learning method in security area.
 - My recent projects are mainly focused on browser fuzzing.
 - My detailed research experience can be seen in my [cv](files/cv.pdf).
 
