@@ -11,7 +11,7 @@ redirect_from:
 - Hello, I am Shenglong, my English name is **James**.
 - I am a senior CS undergraduate student at City University of Hong Kong, supervised by Prof. Cong Wang.
 - I have worked as a research intern at UCSB SecLab with Prof Christopher Kruegel and Prof. Giovanni Vigna.
-- I will join Georgia Tech as a CS PhD in Computer Security in 2023 Fall. 
+- I will join Georgia Tech as a CS PhD in 2023 Fall. 
 
 ## Research Interest
 
