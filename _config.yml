@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Shenglong Yao (James)"
   avatar           : "profile.jpg"
-  bio              : "Incoming CS PhD at Georgia Tech"
-  location         : "Pittsburgh / Hong Kong"
-  employer         : "CMU / City University of Hong Kong"
+  bio              : "CS PhD at Georgia Tech in Computer Security"
+  location         : "Atlanta / Hong Kong"
+  employer         : "Georgia Tech"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "yaoshenglong758063348@gmail.com"
+  email            : "ysl@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
