@@ -26,6 +26,9 @@ Predictions”. Accepted by [NeurIPS 2022 Workshop ICBINB](https://sites.google.
 - Jiasi Weng, **Shenglong Yao**, Yuefeng Du, Junjie Huang, Jian Weng, Cong Wang. “Proof of Unlearning:
 Definitions and Instantiation”. Submitted to IEEE Transactions on Information Forensics & Security. [\[pdf\]](https://arxiv.org/pdf/2210.11334.pdf)
 
+## Service
+- Official Reviewer for NeurIPS 2023 Workshop ICBINB
+
 ## Personal Interest
 
 - I am interested in hacking and like playing CTF competitions as a PWNer.
