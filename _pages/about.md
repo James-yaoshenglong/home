@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - Hello, I am Shenglong, my English name is **James**.
-- I am currently a first year CS PhD Student at Georgia Tech in Computer Seurity.
+- I am currently a first year CS PhD Student supervised by Prof. Wenke Lee at Georgia Tech in Computer Security.
 - I got my B.S. in CS from City University of Hong Kong, supervised by Prof. Cong Wang.
 - Before joining Georgia Tech, I have worked as a research intern at UCSB SecLab with Prof Christopher Kruegel and Prof. Giovanni Vigna.
 
