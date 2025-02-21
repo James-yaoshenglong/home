@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - Hello, I am Shenglong, my English name is **James**.
-- I am currently a first year CS PhD Student supervised by Prof. Wenke Lee at Georgia Tech in Computer Security.
+- I am currently a second year CS PhD Student supervised by Prof. Wenke Lee at Georgia Tech in Computer Security.
 - I got my B.S. in CS from City University of Hong Kong, supervised by Prof. Cong Wang.
 - Before joining Georgia Tech, I have worked as a research intern at UCSB SecLab with Prof Christopher Kruegel and Prof. Giovanni Vigna.
 
@@ -28,6 +28,7 @@ Definitions and Instantiation”. Submitted to IEEE Transactions on Information 
 
 ## Service
 - Official Reviewer for NeurIPS 2023 Workshop ICBINB
+- Official Reviewer for IEEE Transactions on Information Forensics & Security
 
 ## Personal Interest
 
@@ -40,7 +41,7 @@ Definitions and Instantiation”. Submitted to IEEE Transactions on Information 
 -	Programming Language: C/C++, Java, Python, JavaScript
 -	Hacking: Master proficient skills in binary exploitation (PWN) and web hacking
 -	Back-end Operation: Good Knowledge of Linux, Cloud Computing and Server / Container Management
--	Artificial Intelligence: Good knowledge of Machine Learning and Deep Learning, Competition experience in data wrangling and model training
+-	Artificial Intelligence: Good knowledge of Machine Learning and Large Language Model, Competition experience in data wrangling and model training
 -	ML & Security: Knowledge in Machine Learning Robustness and Adversarial Attack
 -	Program Analysis: Skills in common static and dynamic software analysis tools such as Intel Pin and LLVM
 
